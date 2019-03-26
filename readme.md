@@ -1,14 +1,17 @@
-#### 1. Run Program:
+#### 1. Enviroment
+Python 3
+
+#### 2. Run Program:
 ```
 python main.py
 ```
 
-#### 2. Run Test
+#### 3. Run Test
 ```
 python test.py
 ```
 
-#### 3. The menu
+#### 4. The menu
 ```text
 1. New user
 2. Validate password
@@ -26,7 +29,7 @@ Example: {'username': 'your_username', 'password': 'your_password'}
 * Mode number 4: You enter a new password, it will encrypt and override data in the file.
 * Mode number 5: Quit program.
 
-#### 4. The rules
+#### 5. The rules
 
 - The password must not contain whitespace
 - The password must be at least 6 characters.
